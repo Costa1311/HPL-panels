@@ -2366,6 +2366,7 @@ img {
 }
 
 .programm__more__right {
+  padding-left: 50px;
   padding-top: 42px;
   padding-bottom: 42px;
   display: -webkit-box;
