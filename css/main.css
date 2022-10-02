@@ -219,7 +219,7 @@ img {
   left: -20%;
   content: "";
   display: block;
-  background-image: url(/img/Header/curve_arrow.svg);
+  background-image: url(./img/Header/curve_arrow.svg);
   background-repeat: no-repeat;
   width: 114px;
   height: 63px;
