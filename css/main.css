@@ -259,7 +259,7 @@ img {
 
 .swiper-button-prev::after {
   content: "";
-  background-image: url(/img/Header/arrow.svg);
+  background-image: url(./img/Header/arrow.svg);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transform: rotate(180deg);
@@ -271,7 +271,7 @@ img {
 
 .swiper-button-next::after {
   content: "";
-  background-image: url(/img/Header/arrow.svg);
+  background-image: url(./img/Header/arrow.svg);
   background-repeat: no-repeat;
   background-size: contain;
   color: black;
