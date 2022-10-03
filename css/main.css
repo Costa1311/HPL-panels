@@ -2796,7 +2796,7 @@ img {
 .to-up::after {
   content: "";
   display: block;
-  background-image: url(./img/Footer/arrow-up.svg);
+  background-image: url(../img/Footer/arrow-up.svg);
   background-repeat: no-repeat;
   width: 12px;
   height: 17px;
