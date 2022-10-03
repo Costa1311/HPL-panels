@@ -412,7 +412,7 @@ img {
     left: 50%;
   }
   .swiper-button-next::after {
-    background-image: url(./img/Header/arrowBk.svg);
+    background-image: url(../img/Header/arrowBk.svg);
   }
 
   .swiper-button-prev {
@@ -420,7 +420,7 @@ img {
     left: 43%;
   }
   .swiper-button-prev::after {
-    background-image: url(./img/Header/arrowBk.svg);
+    background-image: url(../img/Header/arrowBk.svg);
     -webkit-transform: rotate(180deg);
             transform: rotate(180deg);
   }
