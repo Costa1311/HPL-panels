@@ -1115,7 +1115,7 @@ img {
   right: -200px;
   content: "";
   display: block;
-  background-image: url(./img/Selection/materials.png);
+  background-image: url(../img/Selection/materials.png);
   background-repeat: no-repeat;
   width: 446px;
   height: 382px;
@@ -1452,7 +1452,7 @@ img {
 .swiper-button-prev2::after {
   display: block;
   content: "";
-  background-image: url(./img/Examples/arrow.svg);
+  background-image: url(../img/Examples/arrow.svg);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transform: rotate(180deg);
@@ -1465,7 +1465,7 @@ img {
 .swiper-button-next2::after {
   display: block;
   content: "";
-  background-image: url(./img/Examples/arrow.svg);
+  background-image: url(../img/Examples/arrow.svg);
   background-repeat: no-repeat;
   background-size: contain;
   color: black;
